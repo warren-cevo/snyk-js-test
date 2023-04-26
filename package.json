@@ -11,6 +11,6 @@
   "dependencies": {
     "crypto-js": "^4.1.1",
     "fastify": "^4.16.0",
-    "mysql": "^2.18.1"
+    "mysql2": "^3.2.4"
   }
 }
