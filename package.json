@@ -1,0 +1,16 @@
+{
+  "name": "snyk-demo-js",
+  "version": "1.0.0",
+  "description": "snyk-demo-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "fastify": "^4.16.0",
+    "mysql": "^2.18.1"
+  }
+}
