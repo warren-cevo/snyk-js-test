@@ -25,6 +25,17 @@ fastify.get('/', async (request, reply) => {
     return { results: results[0] }
 })
 
+// Declare a secret route
+fastify.get('/secret', async (request, reply) => {
+    while (true) {
+        console.log(request.query.username)
+    }
+
+    return {
+        status: 200,
+    };
+})
+
 // Run the server!
 const start = async () => {
     try {

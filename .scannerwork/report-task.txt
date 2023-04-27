@@ -1,0 +1,6 @@
+projectKey=snyk-js-test
+serverUrl=http://10.207.1.243:9000
+serverVersion=10.0.0.68432
+dashboardUrl=http://10.207.1.243:9000/dashboard?id=snyk-js-test
+ceTaskId=AYfA5tISrcdg7hZDxuh7
+ceTaskUrl=http://10.207.1.243:9000/api/ce/task?id=AYfA5tISrcdg7hZDxuh7
